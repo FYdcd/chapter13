@@ -11,6 +11,6 @@ public class Main {
         System.out.println(h.name + "の現在のHP: " + h.hp);
 
         King k = new King();
-        k.talk(h);//chapter13
+        k.talk(h);
     }
 }
